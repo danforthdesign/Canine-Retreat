@@ -1,0 +1,54 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGcHFYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHAcIDxAeHyAhIi4xODs/Q0tMTU5PU1dYX2NnamxVJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAbgANfEBFTY2hlZHVsZSBhIFRvdXIgPtMREgoTGB1XTlMua2V5c1pOUy5vYmplY3RzpBQVFheABIAFgAaAB6QZGhscgAiADYAVgBaAGl8QEE5TUGFyYWdyYXBoU3R5bGVfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlVk5TS2VybldOU0NvbG9y1iMkCiUmJygpKissLVpOU1RhYlN0b3BzXxASTlNXcml0aW5nRGlyZWN0aW9uXE5TVGV4dEJsb2Nrc18QH05TVGlnaHRlbmluZ0ZhY3RvckZvclRydW5jYXRpb25bTlNUZXh0TGlzdHOAABABgAyACSM/qZmZoAAABoAL0hIKLzCggArSMjM0NVokY2xhc3NuYW1lWCRjbGFzc2VzXk5TTXV0YWJsZUFycmF5ozQ2N1dOU0FycmF5WE5TT2JqZWN00hIKOTCggArSMjM8PV8QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlozw+N18QEE5TUGFyYWdyYXBoU3R5bGXSCkBBQl8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBSADtMREgpER0qiRUaAD4AQokhJgBGAEoATXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUQJF8QEVBUU2Fucy1OYXJyb3dCb2xk0jIzUFFfEBNOU011dGFibGVEaWN0aW9uYXJ5o1BSN1xOU0RpY3Rpb25hcnnSMjNUVV8QEE5TRm9udERlc2NyaXB0b3KiVjdfEBBOU0ZvbnREZXNjcmlwdG9yI0AEzMxGlQ/H1FlaWwpcKV1eVU5TUkdCXE5TQ29sb3JTcGFjZV8QEk5TQ3VzdG9tQ29sb3JTcGFjZU8QJzAuMDQ3MDU4ODIzNTMgMC4xMzcyNTQ5MDIgMC4yNDcwNTg4MjM1AIAXgBnSYAphYlROU0lEEAGAGNIyM2RlXE5TQ29sb3JTcGFjZaJmN1xOU0NvbG9yU3BhY2XSMjNoaVdOU0NvbG9yomg30jIzUmuiUjfSMjNtbl8QEk5TQXR0cmlidXRlZFN0cmluZ6JvN18QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctFyc1Ryb290gAEACAARABoAIwAtADIANwBWAFwAYwBsAHMAgACCAIQAhgCaAKEAqQC0ALkAuwC9AL8AwQDGAMgAygDMAM4A0ADjAQUBDAEUASEBLAFBAU4BcAF8AX4BgAGCAYQBjQGPAZQBlQGXAZwBpwGwAb8BwwHLAdQB2QHaAdwB4QH7Af8CEgIXAjQCNgI4Aj8CQgJEAkYCSQJLAk0CTwJlAnsCfQKRApYCrAKwAr0CwgLVAtgC6wL0Av0DAwMQAyUDTwNRA1MDWANdA18DYQNmA3MDdgODA4gDkAOTA5gDmwOgA7UDuAPNA98D4gPnAAAAAAAAAgEAAAAAAAAAdAAAAAAAAAAAAAAAAAAAA+k="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "92AAA65C-62B6-4793-8036-B2F74F964B51",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 42,
+    "width": 269,
+    "x": 611,
+    "y": 1948
+  },
+  "glyphBounds": "{{0, 6}, {265, 27}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Schedule a Tour >",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "670AB9E2-C2BE-432D-B84B-102C8908BC31"
+  },
+  "textBehaviour": 0,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 1
+      }
+    }
+  }
+}

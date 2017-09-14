@@ -1,0 +1,50 @@
+{
+  "_class": "group",
+  "do_objectID": "2F092EE0-CD2E-4F77-8B9D-3C02BE73E23D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 125,
+    "width": 200,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "10E90DD8-6D96-426D-A4B9-1ADC1AED2285"
+    },
+    {
+      "class": "bitmap",
+      "id": "84992E03-4DEE-4B93-AC28-A8EAFA42C796"
+    }
+  ],
+  "name": "midtown-west",
+  "nameIsFixed": false,
+  "originalObjectID": "2F092EE0-CD2E-4F77-8B9D-3C02BE73E23D",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

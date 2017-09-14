@@ -1,0 +1,50 @@
+{
+  "_class": "group",
+  "do_objectID": "E0C23BC4-4949-4E1F-B298-D3DAA6431618",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 250,
+    "width": 400,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "4431EE8C-0703-4710-9A33-DB57EF1455D6"
+    },
+    {
+      "class": "bitmap",
+      "id": "F158DCB6-FB16-41C7-92EC-09CD60364AF0"
+    }
+  ],
+  "name": "mercedes",
+  "nameIsFixed": false,
+  "originalObjectID": "E0C23BC4-4949-4E1F-B298-D3DAA6431618",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

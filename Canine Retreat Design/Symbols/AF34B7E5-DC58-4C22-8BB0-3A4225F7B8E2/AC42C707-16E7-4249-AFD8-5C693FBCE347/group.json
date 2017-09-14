@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "do_objectID": "AC42C707-16E7-4249-AFD8-5C693FBCE347",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 250,
+    "width": 400,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "416AF749-9E1D-402B-8E0F-6DB60D1425B2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "34A61183-8CA7-4248-8824-F90B6C2E483C"
+    },
+    {
+      "class": "text",
+      "id": "A6E8FA1B-727E-4AC5-BD3D-44C257FB6D1C"
+    }
+  ],
+  "name": "tribeca",
+  "nameIsFixed": false,
+  "originalObjectID": "AC42C707-16E7-4249-AFD8-5C693FBCE347",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

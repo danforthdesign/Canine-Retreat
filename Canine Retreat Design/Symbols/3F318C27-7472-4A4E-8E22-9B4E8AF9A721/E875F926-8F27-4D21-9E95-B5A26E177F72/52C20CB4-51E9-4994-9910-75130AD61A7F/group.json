@@ -1,0 +1,50 @@
+{
+  "_class": "group",
+  "do_objectID": "52C20CB4-51E9-4994-9910-75130AD61A7F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 250,
+    "width": 400,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "C92A97FA-96AC-4D68-9EA8-4F911B0E966B"
+    },
+    {
+      "class": "bitmap",
+      "id": "DC258DF4-87B3-4143-B290-60A3F46385F2"
+    }
+  ],
+  "name": "spot_chelsea_header",
+  "nameIsFixed": false,
+  "originalObjectID": "52C20CB4-51E9-4994-9910-75130AD61A7F",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "CD9ABF3D-FCF7-4BCB-A6D2-C6DC51A2930E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 516,
+    "width": 776,
+    "x": 721,
+    "y": 2720
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "EDE2546E-5C3C-4726-9935-2A969FEB2D27"
+    },
+    {
+      "class": "bitmap",
+      "id": "15EFDB58-F18A-459F-BA56-C5247D8CB3F6"
+    },
+    {
+      "class": "bitmap",
+      "id": "E7508062-96DD-4757-9534-CC5E451E7549"
+    }
+  ],
+  "name": "DaycareImgx2-1",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

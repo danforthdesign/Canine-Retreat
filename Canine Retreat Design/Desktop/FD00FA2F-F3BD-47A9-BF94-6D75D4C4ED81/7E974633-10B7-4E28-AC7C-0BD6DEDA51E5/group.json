@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "7E974633-10B7-4E28-AC7C-0BD6DEDA51E5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 504,
+    "width": 720,
+    "x": 0,
+    "y": 2216
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "C36A8546-88E8-4756-A3E6-6DC6D15C19BA"
+    },
+    {
+      "class": "bitmap",
+      "id": "C89376FD-2FD0-47C7-8F64-D9E085E68001"
+    }
+  ],
+  "name": "AKC-Canine-Retreat-2-AR3I1094",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
